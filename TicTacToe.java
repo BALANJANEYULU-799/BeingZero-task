@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * File Name: AdvancedTicTacToe.java
+ * File Name: TicTacToe.java
  * Description:
  * Advanced command-line Tic Tac Toe game with:
  * - Input validation
@@ -176,3 +176,4 @@ public class AdvancedTicTacToe {
         return choice == 'y';
     }
 }
+
